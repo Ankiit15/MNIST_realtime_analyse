@@ -1,1 +1,1 @@
-# MNIST_realtime_rocognition
+# MNIST_realtime_analyse
